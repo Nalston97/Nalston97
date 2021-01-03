@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hey 👋
+#### I'm Noah
 
+Though my tool kit of Lego and Erector sets has been exchanged for Java, HTML, and Unity, I always have had an interest in building and fixing things since I was a kid. I'm a UCI alumnus with a passion for 🖥 web, 🎮 game, and 🔍 UI/UX development.
+
+- 📄[Resume (Google Docs)](https://docs.google.com/document/d/1AEFS2kVwEb4GomTSZZMHmdpWmWn8aAvmwBdaNa-nbsI/edit?usp=sharing)
+- 🖼[Project images (imgur)](https://imgur.com/a/1f6rqad)
 <!--
 **Nalston97/Nalston97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
